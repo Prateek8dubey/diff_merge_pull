@@ -1,0 +1,8 @@
+this is answer to question number three where we need to give differences 
+between git pull and git merge .
+so the basic and most important difference between the git pull and git merge is that 
+git merge -git merge actully merge the changes with our local repo that we have fetched 
+from the remote repo 
+git pull  -git pull actully performs both the task of fetching the content 
+from teh remote repo and merging them with the the local repo in a single command
+
